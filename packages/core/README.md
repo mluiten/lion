@@ -6,7 +6,6 @@
 
 The following files/features are deprecated
 
-- CssClassMixin
 - DomHelpersMixin (only $$id, $$slot is deprecated)
 - ElementMixin
 - EventMixin
